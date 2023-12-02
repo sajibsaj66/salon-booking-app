@@ -97,6 +97,4 @@ Javascript, HTML, CSS, Flutter,
 Firebase, Node.js, React.js, Tailwind css
 
 
-## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)]
 
