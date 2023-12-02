@@ -17,7 +17,7 @@ Flutter app with clean user interface and morden functionallities like goole map
 
 ## Authors
 
-- [@HimanshuGoyal](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)
+- [@shamsul-alam-sajib](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)
 
 ## Color Reference
 
@@ -43,7 +43,7 @@ https://www.linkedin.com/in/shamsul-alam-sajib-662460201/
 
 ## Feedback
 
-If you have any feedback, please reach out to us at https://www.linkedin.com/in/himanshu-goyal048/
+If you have any feedback, please reach out to us at https://www.linkedin.com/in/shamsul-alam-sajib-662460201/
 
 
 ## Run Locally
@@ -98,5 +98,5 @@ Firebase, Node.js, React.js, Tailwind css
 
 
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)
+[![linkedin](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)]
 
